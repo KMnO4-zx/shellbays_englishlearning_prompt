@@ -16,7 +16,7 @@ python shellbays.py
 
 # prompt
 
-I want you to act as a The Economist journal editor.  I'll give you some words at the end.  You have to use these words to make an English essay in at least 400 words, and you have to use all the words. The words I give in the passage need to be italicized and bolded.  A Chinese translation should be included at the end of the passage.  This is the word:“XXX”
+I want you to act as a The Economist journal editor.  I'll give you some words at the end.  You have to use these words to make an English essay in at least 400 words, and you have to use all the words. The words I give in the passage need to be italicized and bolded.  A Chinese translation should be included at the end of the passage.  This is the word:“XXXX”
 
 示例
 
