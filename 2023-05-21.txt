@@ -1,0 +1,78 @@
+今日新学单词
+
+problematic: 造成困难的, 产生问题的 
+snap: 突然折断；突然生气，突然发作；砰然关上；突然移动；猛咬；厉声说；拍照 
+approach: （在距离或时间上）靠近，接近；接洽；建议；要求；（在数额、水平或质量上）接近；着手处理；对付 
+soothe: 抚慰, 安慰, 减轻, 劝慰 
+account: 账户, 说明, 账号, 叙述 
+drain: 耗尽；排出，排干；喝光；使精疲力竭，使无精打采 
+toast: 干杯, 祝酒, 敬酒, 烤面包片 
+latter: （刚提及的两者中）后者的, 末尾的, 后半期的, 后面的 
+breakdown: （关系）破裂，（沟通）失败；崩溃，故障 
+obsession: 着迷；困扰，无法摆脱的思想（或情感） 
+transfer: 转移；调动，改行；转让（财产，权利）；移交（责任）；转变（词义等） 
+seek: 寻求，寻找，物色；搜索 
+select: 选择，挑选，选拔 
+childish: 孩子的, 孩子气的, 稚嫩的, 幼稚的 
+random: 【统计】随机的，随意的；胡乱的，无一定之规的；任意的；任意选取的 
+
+今日复习单词
+
+tug: 拽；（朝某一方向用力）拉 
+tough: 坚韧的; 牢固的; 不嫩的, 老的; 强壮的; 坚强的; 强硬的; 困难的, 艰苦的 
+persistent: 持续的，持久的；坚持不懈的，执意的 
+generation: 代，一代；产生 
+accordance: 符合，一致 
+clue: （揭露事件、解决问题的）线索，提示 
+desire: 渴望；欲望；愿望 
+disk: 磁盘 
+monitor: 班长, 监测仪, 屏幕, 显示屏 
+curiosity: 好奇（心）；求知欲；奇物，奇事，珍品 
+exposure: 暴露；接触；曝光；日晒雨淋；经历 
+wire: 电线, 导线, 金属丝, 金属线 
+promise: 承诺，保证；有希望，有可能 
+clip: 剪辑；修剪；削减；夹住 
+astronomer: 天文学家 
+orbit: 轨道，轨迹 
+opt: 选择, 挑选 
+rotation: 旋转, 转动, 轮换, 交替 
+vocal: 嗓音的; 发声的; 大声表达的, 口述的; 直言不讳的; 喜欢畅所欲言的;元音的; 浊音的 
+grain: 谷粒；谷物；（作为食物的）小麦；粮食；颗粒 
+quality: 优质的, 高质量的 
+tidal: 潮汐的, 有潮的 
+rotate: （使）旋转，（使）转动；（使）轮流 
+I: 我 
+career: 〈美〉职业性质的 
+chart: 图表, 海图, 表格, 卡片 
+endless: 无止境的, 无垠的, 无穷无尽的, 不计其数的 
+dwarf: 矮小的 
+musical: 音乐的 
+survival: 生存；继续存活，（尤指在困境中的）幸存；幸存事物 
+backward: 向后的 
+particularly: 特别，尤其；异乎寻常地；特别地；明确地；特别是 
+erase: 抹去, 清除, 消除, 消灭 
+expedition: 探险；考察；考察队 
+flat: 平坦的；平滑的；扁平的；枯燥的，无趣的；平淡的；色彩单调的；（市场）萧条的；断然的；瘪了的 
+tilt: （使）倾斜，倾侧 
+odd: 反常的；奇怪的；奇数的 
+collapse: 突然失败；崩溃；倒闭；（因生病或受伤而）昏倒；（价格）突然下跌；（货币）突然贬值； 
+audience: （现场）观众（或听众），读者；爱好者，拥护者；觐见，会见 
+wreck: 失事，残骸；精神或身体已垮的人 
+ruin: 毁坏；毁损；糟蹋；使遭到无可挽回的损害；对…有灾难性的影响 
+aesthetic: 美学的，审美的；悦目的，雅致的 
+argue: 争论, 争辩, 争吵, 论证；提出理由,认为 
+app: 【自】应用程序 
+articulation: 关节, 发音, （思想感情的）表达, 说话 
+
+今日全部新学英文单词
+
+ problematic, snap, approach, soothe, account, drain, toast, latter, breakdown, obsession, transfer, seek, select, childish, random, 
+
+
+今日prompt
+
+你现在是一位《经济学人》的杂志编辑，我需要要你用一些单词来写一篇英文的文章，大概200词左右，内容丰富。单词列表会被三个反引号括起来。
+        必须用上所有的单词，单词列表中的单词，在文章中需要用粗体，斜体来表示。文章的末尾要有中文翻译。
+        需要用markdown的形式输出
+        以下是单词'''problematic, snap, approach, soothe, account, drain, toast, latter, breakdown, obsession, transfer, seek, select, childish, random, '''
+    

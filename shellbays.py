@@ -67,8 +67,14 @@ def save_words(new, review):
     txt += '\n今日复习单词\n\n'
     for key, values in review.items():
         txt += f'{key}: {values} \n'
-        words += f'{key}, '
-    txt += f'\n今日全部英文单词\n\n {words}'
+        # words += f'{key}, '
+    txt += f'\n今日全部新学英文单词\n\n {words}'
+    txt += f'\n\n\n今日prompt\n\n'
+    txt += f"""你现在是一位《经济学人》的杂志编辑，我需要要你用一些单词来写一篇英文的文章，大概200词左右，内容丰富。单词列表会被三个反引号括起来。
+        必须用上所有的单词，单词列表中的单词，在文章中需要用粗体，斜体来表示。文章的末尾要有中文翻译。
+        需要用markdown的形式输出
+        以下是单词'''{words}'''
+    """
     with open(f'{today}.txt', mode='w', encoding='utf-8') as f:
         f.write(txt)
 

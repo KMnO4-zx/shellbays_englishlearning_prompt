@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38a9cf75-1cf1-4c03-908a-6de80dff419e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shellbays.py" beforeDir="false" afterPath="$PROJECT_DIR$/shellbays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,8 @@
       <workItem from="1684224278959" duration="2109000" />
       <workItem from="1684227404052" duration="396000" />
       <workItem from="1684238074105" duration="3601000" />
+      <workItem from="1684676135940" duration="3000" />
+      <workItem from="1684677428857" duration="643000" />
     </task>
     <servers />
   </component>
@@ -106,32 +109,32 @@
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="728" y="219" key="#shellbays/0.0.2048.1232@0.0.2048.1232" timestamp="1684224215744" />
-    <state width="2005" height="185" key="GridCell.Tab.0.bottom" timestamp="1684244458659">
+    <state width="2005" height="351" key="GridCell.Tab.0.bottom" timestamp="1684678175829">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="2005" height="185" key="GridCell.Tab.0.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1684244458659" />
-    <state width="2005" height="185" key="GridCell.Tab.0.center" timestamp="1684244458659">
+    <state width="2005" height="351" key="GridCell.Tab.0.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1684678175829" />
+    <state width="2005" height="351" key="GridCell.Tab.0.center" timestamp="1684678175829">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="2005" height="185" key="GridCell.Tab.0.center/0.0.2048.1232@0.0.2048.1232" timestamp="1684244458659" />
-    <state width="2005" height="185" key="GridCell.Tab.0.left" timestamp="1684244458659">
+    <state width="2005" height="351" key="GridCell.Tab.0.center/0.0.2048.1232@0.0.2048.1232" timestamp="1684678175829" />
+    <state width="2005" height="351" key="GridCell.Tab.0.left" timestamp="1684678175829">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="2005" height="185" key="GridCell.Tab.0.left/0.0.2048.1232@0.0.2048.1232" timestamp="1684244458659" />
-    <state width="2005" height="185" key="GridCell.Tab.0.right" timestamp="1684244458659">
+    <state width="2005" height="351" key="GridCell.Tab.0.left/0.0.2048.1232@0.0.2048.1232" timestamp="1684678175829" />
+    <state width="2005" height="351" key="GridCell.Tab.0.right" timestamp="1684678175829">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="2005" height="185" key="GridCell.Tab.0.right/0.0.2048.1232@0.0.2048.1232" timestamp="1684244458659" />
+    <state width="2005" height="351" key="GridCell.Tab.0.right/0.0.2048.1232@0.0.2048.1232" timestamp="1684678175829" />
     <state x="526" y="259" key="SettingsEditor" timestamp="1684225311184">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="526" y="259" key="SettingsEditor/0.0.2048.1232@0.0.2048.1232" timestamp="1684225311184" />
-    <state x="686" y="441" key="com.intellij.ide.util.TipDialog" timestamp="1684238074594">
+    <state x="686" y="441" key="com.intellij.ide.util.TipDialog" timestamp="1684677433295">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="686" y="441" key="com.intellij.ide.util.TipDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1684238074594" />
+    <state x="686" y="441" key="com.intellij.ide.util.TipDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1684677433295" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$shellbays.coverage" NAME="shellbays Coverage Results" MODIFIED="1684239788819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$shellbays.coverage" NAME="shellbays Coverage Results" MODIFIED="1684678175822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
